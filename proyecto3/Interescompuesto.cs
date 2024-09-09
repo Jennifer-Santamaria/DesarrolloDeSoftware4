@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 
 class Interescompuesto
 {
@@ -23,4 +23,4 @@ class Interescompuesto
         return cInicial * Math.Pow(1 + tInteres / 12, 12 * cantidadA);
     }
 }
-
+*/
