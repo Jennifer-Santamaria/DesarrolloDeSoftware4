@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿/*
 class Calificaciones
 {
     static void Main(string[] args)
@@ -36,3 +35,4 @@ class Calificaciones
         }
     }
 }
+*/
