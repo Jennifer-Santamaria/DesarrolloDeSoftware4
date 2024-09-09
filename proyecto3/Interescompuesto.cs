@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class Interescompuesto
 {
     static void Main(string[] args)
     { 
